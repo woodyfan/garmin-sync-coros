@@ -6,7 +6,7 @@ on:
     - cron: '0 0,7,20 * * ?'
 env:
   GITHUB_NAME: woodyfan
-  GITHUB_EMAIL: 3150102216@zju.edu.cn
+  GITHUB_EMAIL: yudi_fan@qq.com
   ## 佳明配置
   GARMIN_AUTH_DOMAIN: ${{ secrets.GARMIN_AUTH_DOMAIN }}
   GARMIN_EMAIL: ${{ secrets.GARMIN_EMAIL }}
